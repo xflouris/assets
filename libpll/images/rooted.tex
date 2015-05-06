@@ -1,0 +1,66 @@
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}[font=\Huge]
+
+\coordinate (a) at (11,16);
+
+\coordinate (a1) at (11,1);
+\coordinate (a2) at (1,1);
+
+\coordinate (t1) at (3,4);
+\fill (t1) circle (1ex);
+\coordinate (t2) at (5,1);
+\fill (t2) circle (1ex);
+\draw[ultra thick] [-] (t1) -- (t2);
+
+\fill (a) circle (1ex);
+\fill (a1) circle (1ex);
+\fill (a2) circle (1ex);
+
+\draw[ultra thick] [-] (a) -- (a2);
+
+\coordinate (b) at (7,10);
+\fill (b) circle (1ex);
+\draw[ultra thick] [-] (b) -- (a1);
+
+
+\coordinate (a3) at (21,1);
+\fill (a3) circle (1ex);
+\draw[ultra thick] [-] (a) -- (a3);
+
+\coordinate (a4) at (19,4);
+\fill (a4) circle (1ex);
+
+\coordinate (a5) at (17,1);
+\fill (a5) circle (1ex);
+\draw[ultra thick] [-] (a4) -- (a5);
+
+\node at (7.5,13) {\textcolor{red}{$0.718$}};
+\node at (3.5,7) {\textcolor{red}{$0.722$}};
+\node at (1,2.5) {\textcolor{red}{$0.36$}};
+\node at (5,2.5) {\textcolor{red}{$0.36$}};
+\node at (17,2.5) {\textcolor{red}{$0.36$}};
+\node at (21,2.5) {\textcolor{red}{$0.36$}};
+
+\node at (16.5,10) {\textcolor{red}{$1.44$}};
+
+\node at (10.5,5.5) {\textcolor{red}{$0.985$}};
+
+
+% tip numbering 
+\node at (1,0.5) {$0$};
+\node at (5,0.5) {$1$};
+\node at (11,0.5) {$2$};
+\node at (17,0.5) {$3$};
+\node at (21,0.5) {$4$};
+
+% inners
+\node at (2.5,4.5) {$5$};
+\node at (6.5,10.5) {$6$};
+\node at (19.5,4.5) {$7$};
+\node at (11,16.5) {$8$};
+
+\end{tikzpicture}
+\end{document}
