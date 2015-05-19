@@ -3,15 +3,18 @@ CROP=pdfcrop
 CONV=convert
 CONVARGS = -density 200 -quality 100
 
-all: clv.png
+TEXFILES = $(shell find . -maxdepth 1 -type f -name '*.tex')                                                           
+PNGFILES = $(patsubst %.tex, %.png, $(TEXFILES)) 
 
-clv.png: clv-crop.pdf
+all: $(PNGFILES)
+
+%.png: %-crop.pdf
 	$(CONV) $(CONVARGS) $+ $@
 
-clv-crop.pdf: clv.pdf
+%-crop.pdf: %.pdf
 	$(CROP) $+
 
-clv.pdf: clv.tex
+%.pdf: %.tex
 	$(TEX) $+ -o $@
 
 clean:
