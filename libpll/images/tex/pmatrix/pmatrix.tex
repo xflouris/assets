@@ -1,0 +1,25 @@
+%\documentclass[preview]{standalone}
+\documentclass{standalone}
+%\documentclass{minimal}
+%\usepackage[active,tightpage,displaymath]{preview}
+%\documentclass{article}
+\usepackage{blkarray}
+\usepackage{amsmath}
+\pagestyle{empty}
+%\usepackage[paperheight=16cm,paperwidth=23cm]{geometry}                                                                                      
+%\usepackage[absolute]{textpos}
+
+
+\begin{document}
+$
+\begin{blockarray}{cccccc}
+& \texttt{A} & \texttt{C} & \texttt{G} & \texttt{T} \\
+\begin{block}{c(ccccc)}
+\texttt{A} & -(\alpha \pi_C + \beta \pi_G + \gamma \pi_T) & \alpha   \pi_C                                  & \beta  \pi_G                                & \gamma   \pi_T \\
+\texttt{C} & \alpha \pi_A                                 & -(\alpha \pi_A + \delta \pi_G + \epsilon \pi_T) & \delta \pi_G                                & \epsilon \pi_T \\
+\texttt{G} & \beta  \pi_A                                 & \delta   \pi_C                                  & -(\beta \pi_A + \delta \pi_C + \zeta \pi_T) & \zeta    \pi_T \\
+\texttt{T} & \gamma \pi_A                                 & \epsilon \pi_C                                  & \zeta  \pi_G                                & -(\gamma \pi_A + \epsilon \pi_C + \zeta \pi_G) \\
+\end{block}
+\end{blockarray}
+$
+\end{document}
