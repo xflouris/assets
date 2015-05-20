@@ -1,0 +1,52 @@
+\documentclass{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}[font=\Huge]
+%\draw[step=1,gray,very thin] (0,0) grid (22,17);
+
+% inner nodes
+\coordinate (n4) at (6.75,8.5);
+\coordinate (n5) at (15.25,8.5);
+\fill (n4) circle (1ex);
+\fill (n5) circle (1ex);
+
+% leaves
+\coordinate (n0) at (4.75,10.5);
+\coordinate (n1) at (2.75,4.5);
+\coordinate (n2) at (18.25,11.5);
+\coordinate (n3) at (20.25,3.5);
+\fill (n0) circle (1ex);
+\fill (n1) circle (1ex);
+\fill (n2) circle (1ex);
+\fill (n3) circle (1ex);
+
+% edges
+\draw[ultra thick] [-] (n4) -- (n5);
+\draw[ultra thick] [-] (n4) -- (n0);
+\draw[ultra thick] [-] (n4) -- (n1);
+\draw[ultra thick] [-] (n5) -- (n2);
+\draw[ultra thick] [-] (n5) -- (n3);
+
+% leaf labels
+\node at (4.5,11) {$0$};
+\node at (2.5,4) {$1$};
+\node at (18.5,12) {$2$};
+\node at (20.5,3) {$3$};
+
+% inner node labels
+\node at (7,9) {$4$};
+\node at (15,9) {$5$};
+
+% edge lengths
+\node at (6.75+4.25,9) {\textcolor{red}{$0.6$}};
+\node at (6.25,10) {\textcolor{red}{$0.2$}};
+\node at (4,7.25) {\textcolor{red}{$0.4$}};
+\node at (16.25,10.5) {\textcolor{red}{$0.4$}};
+\node at (18.25,6.5) {\textcolor{red}{$0.4$}};
+
+
+
+
+\end{tikzpicture}
+\end{document}
