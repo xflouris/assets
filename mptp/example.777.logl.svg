@@ -1,4 +1,4 @@
-<svg class="graph" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="550" width="750">
+<svg class="graph" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="430" width="750">
 <style type="text/css">
 <![CDATA[
 svg.graph {
@@ -71,610 +71,206 @@ svg.graph .labels.y-labels {
 </g>
 <g class="surfaces">
 <circle cx="130.000000" cy="360.000000" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="136.001200" cy="355.765548" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="142.002400" cy="350.455969" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="148.003601" cy="341.961161" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="154.004801" cy="333.686743" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="160.006001" cy="329.402731" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="166.007201" cy="323.085980" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="172.008402" cy="316.097881" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="178.009602" cy="307.430790" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="184.010802" cy="301.615342" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="190.012002" cy="294.463169" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="196.013203" cy="288.596502" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="202.014403" cy="282.597182" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="208.015603" cy="276.668536" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="214.016803" cy="268.060300" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="220.018004" cy="263.878276" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="226.019204" cy="257.657880" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="232.020404" cy="253.135437" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="238.021604" cy="247.028768" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="244.022805" cy="240.319720" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="250.024005" cy="231.281118" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="256.025205" cy="225.757139" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="262.026405" cy="219.695077" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="268.027606" cy="214.197895" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="274.028806" cy="209.819290" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="280.030006" cy="206.514069" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="286.031206" cy="202.117892" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="292.032406" cy="198.861762" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="298.033607" cy="194.275903" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="304.034807" cy="187.876201" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="310.036007" cy="183.571664" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="316.037207" cy="178.570704" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="322.038408" cy="174.834616" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="328.039608" cy="167.662162" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="334.040808" cy="161.929711" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="340.042008" cy="159.162512" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="346.043209" cy="154.491410" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="352.044409" cy="148.335404" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="358.045609" cy="145.140593" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="364.046809" cy="143.203212" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="370.048010" cy="141.182360" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="376.049210" cy="137.475241" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="382.050410" cy="132.169824" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="388.051610" cy="128.903336" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="394.052811" cy="127.503529" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="400.054011" cy="123.662056" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="406.055211" cy="120.858785" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="412.056411" cy="120.268225" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="418.057612" cy="119.184812" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="424.058812" cy="115.971477" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="430.060012" cy="112.645393" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="436.061212" cy="111.299092" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="442.062412" cy="109.254271" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="448.063613" cy="107.778256" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="454.064813" cy="102.975232" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="460.066013" cy="101.623051" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="466.067213" cy="102.386181" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="472.068414" cy="98.789045" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="478.069614" cy="96.126744" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="484.070814" cy="92.377405" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="490.072014" cy="92.957107" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="496.073215" cy="92.891215" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="502.074415" cy="91.796959" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="508.075615" cy="90.555033" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="514.076815" cy="86.230218" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="520.078016" cy="84.673823" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="526.079216" cy="82.110871" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="532.080416" cy="80.174642" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="538.081616" cy="77.608701" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="544.082817" cy="75.934135" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="550.084017" cy="74.782135" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="556.085217" cy="72.074956" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="562.086417" cy="69.766345" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="568.087618" cy="66.492499" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="574.088818" cy="64.515042" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="580.090018" cy="61.787584" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="586.091218" cy="62.162087" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="592.092418" cy="58.602725" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="598.093619" cy="58.050814" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="604.094819" cy="54.823274" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="610.096019" cy="54.042107" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="616.097219" cy="51.378837" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="622.098420" cy="51.222009" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="628.099620" cy="50.217903" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="634.100820" cy="47.952153" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="640.102020" cy="47.413883" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="646.103221" cy="45.808913" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="652.104421" cy="45.612534" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="658.105621" cy="45.604883" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="664.106821" cy="45.034547" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="670.108022" cy="45.553341" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="676.109222" cy="43.389184" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="682.110422" cy="44.357368" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="688.111622" cy="43.011761" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="694.112823" cy="42.492202" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="700.114023" cy="42.848713" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="706.115223" cy="44.022238" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="712.116423" cy="42.904029" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="718.117624" cy="43.348699" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="724.118824" cy="42.463242" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 <circle cx="730.120024" cy="43.325051" r="4" fill="#2ca02c" stroke="#2ca02c" fill-opacity=".5" >
-<animate attributeName="r" begin="mouseover" dur="0.2" fill="freeze" from="4" to="10" />
-<animate attributeName="fill-opacity" begin="mouseover" dur="0.2" fill="freeze" from=".5" to="1" />
-<animate attributeName="r" begin="mouseout" dur="0.2" fill="freeze" to="4" />
-<animate attributeName="fill-opacity" begin="mouseout" dur="0.2" fill="freeze" to=".5" />
 </circle>
 </g>
 <use class="grid double" xlink:href="#xGrid" style=""></use>
